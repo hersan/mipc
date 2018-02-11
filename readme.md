@@ -42,6 +42,6 @@ $ php artisan migrate --seed
 ## Acceso de administrador
 
 ```
-emial:    admin@localhost
+email:    admin@localhost
 password: secret
 ```
